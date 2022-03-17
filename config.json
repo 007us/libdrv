@@ -1,0 +1,46 @@
+{
+    "access_token": "ya29.A0ARrdaM_Zn_zAc2g0agaRpCxuM6nMIHC2po_01wQwPvYIJejRyxwtqctjhGRTca_cktLlgEGuVRyLaVgS1idfcI6sQpsYKQy1ay7r67_e_8ArVsNWaUvlNKvfuesp-3hiVfj2JUL8DqggvcbgJ0u4Lf5Wnzym",
+    "account_list": [],
+    "adult": "false",
+    "arcio": "dev",
+    "auth": "true",
+    "build_interval": 360,
+    "build_type": "hybrid",
+    "category_list": [
+        {
+            "adult": false,
+            "anilist": false,
+            "id": "1ITkxNd8YwCXcdyROYxeY81G5qwjEABey",
+            "language": "en",
+            "name": "Movies",
+            "type": "Movies"
+        },
+        {
+            "adult": false,
+            "anilist": false,
+            "id": "1LqMiPQC5Pea6IyuMj6ytW2VKYDpIjObB",
+            "language": "en",
+            "name": "Videos",
+            "type": "Movies"
+        }
+    ],
+    "client_id": "554350857858-8e6c2cpc4f5dbu7d1kvttni6elh48a35.apps.googleusercontent.com",
+    "client_secret": "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",
+    "cloudflare": "https://playadikrbkend.adikr.workers.dev/",
+    "fetch_assets": "false",
+    "refresh_token": "1//0gizjNDqao0B_CgYIARAAGBASNwF-L9IrjO070kK0biCUU0I7J-F-qTPAeiwoDmWTQ52sO3sLDVt8FZpXsmU0FhNtglV4qPMVktY",
+    "remove_duplicates": "false",
+    "remove_no_poster": true,
+    "secret_key": "passadmin",
+    "tmdb_api_key": "14498c019c0a231a1d5b434dc031317a",
+    "token_expiry": "",
+    "prefer_mkv": true,
+    "prefer_mp4": "true",
+    "transcoded": true,
+    "service_accounts": [],
+    "signup": "false",
+    "ui_config": {
+        "custom_button": {},
+        "title": "Play.Adikr"
+    }
+}
